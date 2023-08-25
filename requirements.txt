@@ -1,0 +1,8 @@
+beautifulsoup4
+lxml
+matplotlib
+mplsoccer
+openpyxl
+Pillow
+pandas
+requests
